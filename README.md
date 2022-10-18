@@ -5,12 +5,12 @@
 	<img src="https://readme-typing-svg.demolab.com/?lines=Hi, I'm Shoxrux Berdimurodov (from Earth)!;Welcome+to+my+GitHub+Profile!">
 </h1>
 
-<h1 align="center">
+<!-- <h1 align="center">
 	<a href="https://github.com/shoxrux071" target="_self">
 		<img alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 	</a>
 </h1>
-<br>
+<br> -->
 
 
 ### 📖 About me
