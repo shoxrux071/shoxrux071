@@ -1,4 +1,7 @@
 <h1 align="center">
+	<img src="https://readme-typing-svg.demolab.com/?lines=Hi, from Earth  buddy!;Welcome+to+my+GitHub+Profile!">
+</h1>
+<h1 align="center">
 	<img src="https://readme-typing-svg.demolab.com/?lines=Hi, I'm Shoxrux Berdimurodov (from Earth)!;Welcome+to+my+GitHub+Profile!">
 </h1>
 
