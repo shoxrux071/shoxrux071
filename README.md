@@ -6,4 +6,4 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<img src="https://thumbs.gfycat.com/ContentTestyKillerwhale.webp" width="100%">
+<img src="https://thumbs.gfycat.com/CheerySeparateGoldeneye.webp" width="100%">
