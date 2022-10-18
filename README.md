@@ -6,4 +6,4 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<img src="https://media1.giphy.com/media/37QUVx5Og5KB49ZnfF/200w.webp?cid=ecf05e47t10rlfjduz59oe9129p7agt388xtg6w92b3tttlq&rid=200w.webp&ct=g" width="100%">
+<img src="https://cdn.dribbble.com/users/444644/screenshots/11207045/media/5bf9aeb32e7ba10007eefc74474211e7.gif" width="100%">
