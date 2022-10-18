@@ -6,4 +6,4 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<img src="[https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif](https://thumbs.gfycat.com/BeneficialThoroughAgama-max-1mb.gif)">
+<img src="https://thumbs.gfycat.com/BeneficialThoroughAgama-max-1mb.gif">
