@@ -6,4 +6,4 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<img src="https://i.pinimg.com/originals/5a/12/41/5a1241391b1a1d5f094a2352d793b3c0.gif" width="100%">
+<img src="https://1.bp.blogspot.com/-sgOYOp_2tKE/YEf7Ct1cFaI/AAAAAAAA5G8/_EKBEGIuIX87v4TUTP8PBAzeXDJEbCnSQCLcBGAsYHQ/s0/Flag_of_Uzbekistan.gif" width="100%">
