@@ -3,6 +3,10 @@
 	<img src="https://readme-typing-svg.demolab.com/?lines=Hi, I'm Shoxrux Berdimurodov ;from Tashkent on Earth;Welcome+to+my+GitHub+Profile!">
 </h1>
 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+
+
 <h1 align="center">
 	<a href="https://github.com/shoxrux071" target="_self">
 		<img alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
