@@ -9,7 +9,7 @@
 
 <h1 align="center">
 	<a href="https://github.com/shoxrux071" target="_self">
-		<img alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+		<img alt="GIF" src="https://cdn.dribbble.com/users/444644/screenshots/11207045/media/5bf9aeb32e7ba10007eefc74474211e7.gif" width="100%"">
 	</a>
 </h1>
 <br>
@@ -107,7 +107,6 @@
 </p>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<img src="https://cdn.dribbble.com/users/444644/screenshots/11207045/media/5bf9aeb32e7ba10007eefc74474211e7.gif" width="100%">
 
 ### :fire: My Github Stats :
 
