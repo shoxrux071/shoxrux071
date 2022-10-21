@@ -9,7 +9,7 @@
 
 <h1 align="center">
 	<a href="https://github.com/shoxrux071" target="_self">
-		<img alt="GIF" src="https://cdn.dribbble.com/users/444644/screenshots/11207045/media/5bf9aeb32e7ba10007eefc74474211e7.gif" width="100%"">
+		<img alt="GIF" src="https://im.ezgif.com/tmp/ezgif-1-d36c883f59.gif" width="100%"">
 	</a>
 </h1>
 <br>
