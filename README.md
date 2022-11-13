@@ -3,7 +3,7 @@
 	<img src="https://readme-typing-svg.demolab.com/?lines=Hi, I'm Shoxrux Berdimurodov ;from Tashkent on Earth;Welcome+to+my+GitHub+Profile!">
 </h1>
 
-<img src="https://thumbs.gfycat.com/BitesizedDesertedBallpython-size_restricted.gif" width="50%" height="50%">
+<img src="https://thumbs.gfycat.com/BitesizedDesertedBallpython-size_restricted.gif" width="100%" height="50%">
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <!-- <img src="https://github.blog/wp-content/uploads/2020/12/layers-loop.h264.2020-12-21-11_16_56.gif?resize=640%2C409" width="100%"> -->
