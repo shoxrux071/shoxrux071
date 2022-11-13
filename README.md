@@ -8,15 +8,17 @@
 
 <img src="http://softwarepassion.s3.amazonaws.com/wp-content/uploads/003.gif" width="100%" height="100%">
 
+<img src="https://i.gifer.com/embedded/download/XDZc.gif" width="100%" height="100%">
 
 
 
 
+<!-- 
 <h1 align="center">
 	<a href="https://github.com/shoxrux071" target="_self">
 		<img alt="GIF" src="https://i.gifer.com/embedded/download/XDZc.gif" width="100%"">
 	</a>
-</h1>
+</h1> -->
 <br>
 
 
